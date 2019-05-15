@@ -1,0 +1,23 @@
+E:\My Programs\SWF Player v2.0\SWF Player\bin\Debug\Flash Game Loader v2.0.exe.config
+E:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\Flash Game Loader v2.0.pdb
+E:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF_Player.Form1.resources
+E:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF_Player.Form2.resources
+E:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF_Player.Resources.resources
+E:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF Player.vbproj.GenerateResource.Cache
+E:\My Programs\SWF Player v2.0\SWF Player\bin\Debug\Flash Game Loader v2.0.exe
+E:\My Programs\SWF Player v2.0\SWF Player\bin\Debug\Flash Game Loader v2.0.pdb
+E:\My Programs\SWF Player v2.0\SWF Player\bin\Debug\Flash Game Loader v2.0.xml
+E:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\Flash Game Loader v2.0.exe
+E:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\Flash Game Loader v2.0.xml
+D:\My Programs\SWF Player v2.0\SWF Player\bin\Debug\Flash Game Loader v2.0.exe.config
+D:\My Programs\SWF Player v2.0\SWF Player\bin\Debug\Flash Game Loader v2.0.exe
+D:\My Programs\SWF Player v2.0\SWF Player\bin\Debug\Flash Game Loader v2.0.pdb
+D:\My Programs\SWF Player v2.0\SWF Player\bin\Debug\Flash Game Loader v2.0.xml
+D:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF_Player.Form1.resources
+D:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF_Player.Form2.resources
+D:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF_Player.Resources.resources
+D:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF Player.vbproj.GenerateResource.cache
+D:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\SWF Player.vbproj.CoreCompileInputs.cache
+D:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\Flash Game Loader v2.0.exe
+D:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\Flash Game Loader v2.0.xml
+D:\My Programs\SWF Player v2.0\SWF Player\obj\Debug\Flash Game Loader v2.0.pdb
